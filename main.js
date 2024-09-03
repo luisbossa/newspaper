@@ -8,7 +8,7 @@ const textFooter = document.querySelector(".text-footer");
 
 /*----------------- FOOTER COMPANY NAME ----------------*/
 
-let companyName = "BCompany";
+let companyName = "BStudio";
 textFooter.textContent = "© " + companyName;
 
 /*----------------- 20 NEWS HOME PART----------------*/

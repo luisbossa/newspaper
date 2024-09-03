@@ -24,7 +24,8 @@ body {
   line-height: var(--line-h);
   color: var(--clr-mate);
   background-image: url("img/bg.jpg");
-  background-size: 867px;
+  background-size: cover;
+  background-repeat: no-repeat;
   transition: color 0.4s;
 }
 
